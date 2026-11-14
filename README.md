@@ -57,7 +57,7 @@ There are three ways to test the model on custom text without retraining.
 
 ### Option A: Web App (Streamlit)
 A working interactive UI has been deployed using Streamlit Community Cloud.
-**Live Demo:** **
+**Live Demo:**https://kazakhprofanitydetection-drnvb5jy24xuhsr3aovkbz.streamlit.app/**
 
 ### Option B: Run the test script
 Simply execute the provided test script in your terminal:
